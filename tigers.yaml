@@ -1,10 +1,14 @@
 team: Tigers
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 manager: Brenda
 =======
 manager: Kenneth
 >>>>>>> to-merge
+=======
+manager: Brenda
+>>>>>>> to-rebase
 
 coach: Ruth
 
@@ -13,3 +17,4 @@ mebers:
 - William
 - David
 - George
+- Tyler
